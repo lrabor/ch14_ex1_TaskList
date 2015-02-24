@@ -1,0 +1,3 @@
+C:\Users\Joy\AndroidStudioProjects\ch14_ex1_TaskList\app\build\intermediates\classes\debug
+C:\Users\Joy\AndroidStudioProjects\ch14_ex1_TaskList\app\build\intermediates\pre-dexed\debug\TabManager-0950cd72d2e39c131f94cf58869735bdfdc62765.jar
+C:\Users\Joy\AndroidStudioProjects\ch14_ex1_TaskList\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-db854e95087f45eb02d7dc198386460d979b4348.jar
